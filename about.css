@@ -1,0 +1,29 @@
+.last-img{
+    background-image: url(./image/Image\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    height: 470px;
+    
+}
+.img-text{
+    margin-top: 260px;
+    background: #252525;
+    /* width: 280px; */
+    mix-blend-mode: multiply;
+    color: white;
+    border-radius: 20px;
+    
+}
+.selby{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-self: end;
+}
+.icon-container{
+    margin-right: 150px;
+}
+.footer{
+    background: #063255;
+}

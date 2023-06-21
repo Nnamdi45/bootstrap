@@ -1,0 +1,33 @@
+
+.header__container {
+    background-image: url(./image/Virtual-Team-Building\ 1.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.header__text {
+    width: 400px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* .icon-container{
+    margin-right: 155px;
+} */
+
+/* .ceo{
+    margin-top: -20px;
+} */
+
+.footer{
+    background: #063255;
+}
+
